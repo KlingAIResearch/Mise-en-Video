@@ -1,0 +1,23 @@
+{
+  "Pi3": {
+    "upstream": "https://github.com/yyfz/Pi3.git",
+    "commit": "0a505af9c261a7c8e44946fba5b1942cdc25914b",
+    "environment": "mev"
+  },
+  "CameraHMR": {
+    "upstream": "https://github.com/pixelite1201/CameraHMR.git",
+    "commit": "65d11a0640d23c60f55ec82ae54298e9e7e549e0",
+    "adapter": "tools/camerahmr_batch.py",
+    "environment": "mev"
+  },
+  "SAM2": {
+    "upstream": "https://github.com/facebookresearch/sam2.git",
+    "commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+    "environment": "mev"
+  },
+  "tracking": {
+    "implementation": "tools/tracking_backend.py",
+    "assets": "3rdparty/tracking_assets",
+    "environment": "mev"
+  }
+}

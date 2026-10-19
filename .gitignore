@@ -1,0 +1,21 @@
+__pycache__/
+.DS_Store
+.vscode*
+.env
+.env.*
+!.env.example
+tmp_examples*
+new_checkpoint*
+batch_test*
+nohup*
+
+# Keep the small demo videos in Git, but ignore generated example outputs.
+/example/*
+!/example/video/
+!/example/video/**
+
+# Third-party repositories and local model/checkpoint links.
+/3rdparty/Pi3/
+/3rdparty/CameraHMR/
+/3rdparty/SAM2/
+/3rdparty/tracking_assets/sam2/
