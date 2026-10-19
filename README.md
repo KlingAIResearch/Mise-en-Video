@@ -84,7 +84,7 @@ specifications and stage-level options.
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/heiheishuang/Mise-en-Video.git Mise-en-Video
+git clone https://github.com/KlingAIResearch/Mise-en-Video.git Mise-en-Video
 cd Mise-en-Video
 ```
 
