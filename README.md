@@ -4,6 +4,11 @@
 </h1>
 
 <p align="center">
+  <a href="https://arxiv.org/abs/2610.26801"><img src="https://img.shields.io/badge/arXiv-2610.26801-b31b1b.svg" alt="arXiv Paper"></a> &nbsp;
+  <a href="https://heiheishuang.xyz/Mise-en-Video/"><img src="https://img.shields.io/badge/Project-Page-Green" alt="Project Page"></a>
+</p>
+
+<p align="center">
   <b>Yingshuang Zou</b><sup>1,*</sup> &ensp;
   <b>Xiaoyu Shi</b><sup>2,†</sup> &ensp;
   <b>Yawen Luo</b><sup>3</sup> &ensp;
@@ -33,10 +38,6 @@
 </p>
 
 <p align="center">
-  <a href="https://heiheishuang.xyz/Mise-en-Video/">Project Homepage</a>
-</p>
-
-<p align="center">
   <img src="assets/teaser.jpg" alt="Mise-en-Video teaser" width="95%">
 </p>
 
@@ -46,6 +47,8 @@
 > positions, and other 3D scene parameters. We render the 3D layout as a control
 > signal (shown in the insets) and feed it into the generator, enabling stronger
 > cross-shot consistency and finer-grained controllability.
+
+🤗 If you find MeV useful, please consider giving this repo a ⭐. Your support helps us share and improve the project. Thank you!
 
 ## Overview
 
