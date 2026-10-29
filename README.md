@@ -194,7 +194,15 @@ CameraHMR.
 ## Citation
 
 If you find this work or the data-processing pipeline useful, please cite:
-TODO
+
+```bibtex
+@article{zou2026mise,
+  title={Mise-en-Video: Fine-Grained 3D Control for Multi-Shot Video Generation},
+  author={Zou, Yingshuang and Shi, Xiaoyu and Luo, Yawen and Li, Ziang and Wang, Qinghe and Li, Mengfei and Zhao, Chengfeng and Wang, Xintao and Wan, Pengfei and Gai, Kun and others},
+  journal={arXiv preprint arXiv:2610.26801},
+  year={2026}
+}
+```
 
 ## Acknowledgements
 
